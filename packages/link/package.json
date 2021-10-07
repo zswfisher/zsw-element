@@ -1,6 +1,6 @@
 {
   "name": "@zswgroup/lg-link",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "lg-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
