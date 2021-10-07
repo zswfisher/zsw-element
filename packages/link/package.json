@@ -1,5 +1,5 @@
 {
-  "name": "@zswgroup/lg-link",
+  "name": "zsw-link",
   "version": "0.0.10",
   "description": "lg-link component",
   "main": "dist/cjs/index.js",
@@ -10,5 +10,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "gitHead": "48427a6e3421489350263b18cca98f28ce6033ea"
+  "gitHead": "a4558c07e9549fc262abd1c2e422dc5ab341f213"
 }

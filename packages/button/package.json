@@ -1,5 +1,5 @@
 {
-  "name": "@zswgroup/lg-button",
+  "name": "zsw-button",
   "version": "0.0.10",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
-  "gitHead": "48427a6e3421489350263b18cca98f28ce6033ea",
+  "gitHead": "a4558c07e9549fc262abd1c2e422dc5ab341f213",
   "dependencies": {
     "lodash": "4"
   }
