@@ -1,0 +1,6 @@
+66 error Error: Command failed with exit code 128: git tag v0.0.1 -m v0.0.1
+66 error fatal: tag 'v0.0.1' already exists
+66 error     at makeError (/Users/zsw/.config/yarn/global/node_modules/@lerna/child-process/node_modules/execa/lib/error.js:60:11)
+66 error     at handlePromise (/Users/zsw/.config/yarn/global/node_modules/@lerna/child-process/node_modules/execa/index.js:118:26)
+66 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+66 error     at async Promise.all (index 0)
