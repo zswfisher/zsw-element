@@ -10,7 +10,6 @@ export default {
   methods: {
     handleClick (evt) {
       this.$emit('click', evt)
-      
       evt.preventDefault();
     }
   }
